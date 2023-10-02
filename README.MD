@@ -8,7 +8,7 @@ Este projeto é uma recriação simplificada do estilo de layout e design do sit
 
 - **Adição de imagens**: Os usuários podem criar diversos posts.
 
-- **Ordenação Dinâmica**: As imagens são organizados dinamicamente, proporcionando uma experiência de navegação interativa.
+- **Ordenação Dinâmica**: As imagens são organizadas dinamicamente, proporcionando uma experiência de navegação interativa.
 
 - **Autenticação de Usuário**: Implementação básica de autenticação de usuário para permitir que as pessoas criem contas e façam login.
 
