@@ -17,3 +17,4 @@ Este projeto é uma recriação simplificada do estilo de layout e design do sit
 - Flask
 - SQLite
 - HTML/CSS
+- Python
